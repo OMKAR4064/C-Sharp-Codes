@@ -1,0 +1,14 @@
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\bin\Debug\net8.0\FieldsAndProperties.exe
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\bin\Debug\net8.0\FieldsAndProperties.deps.json
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\bin\Debug\net8.0\FieldsAndProperties.runtimeconfig.json
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\bin\Debug\net8.0\FieldsAndProperties.dll
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\bin\Debug\net8.0\FieldsAndProperties.pdb
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\FieldsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\FieldsAndProperties.AssemblyInfoInputs.cache
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\FieldsAndProperties.AssemblyInfo.cs
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\FieldsAndProperties.csproj.CoreCompileInputs.cache
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\FieldsAndProperties.dll
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\refint\FieldsAndProperties.dll
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\FieldsAndProperties.pdb
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\FieldsAndProperties.genruntimeconfig.cache
+D:\Trainings\JKJune2024\Day1\FieldsAndProperties\obj\Debug\net8.0\ref\FieldsAndProperties.dll
